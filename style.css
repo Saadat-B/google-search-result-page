@@ -1,0 +1,60 @@
+/* UTILITIES */
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+/* NAVBAR */
+
+.nav-bar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+
+/* HEADER */
+
+.header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    border: 2px solid red;
+    
+}
+
+.lists{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.list-1{
+    display: flex;
+    /* width: 100%; */
+}
+.list-1 li a{
+    margin: 5px;
+    padding: 5px;
+}
+
+.list-2{
+    display: flex;
+    /* width: 100%; */
+}
+
+.list-2 li a{
+    margin: 5px;
+    padding: 5px;}
+.hp{
+    /* margin: 5px; */
+    /* padding: 5px; */
+    width: 7%;
+}
